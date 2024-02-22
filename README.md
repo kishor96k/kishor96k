@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Kishor Chavan and I'm a Software Developer , From Solapur (Maharashtra)</h1>
+<h1 align="left">Hello Everyone , I'm Kishor Chavan and I'm a Software Developer , From Solapur (Maharashtra)</h1>
 <h3 align="center">Experienced Software Developer with over 2+ years of expertise in crafting dynamic web applications.
     Proficient in frontend development, I possess hands-on experience in utilizing a diverse range of technologies such
     as Angular, ReactJS, JavaScript, HTML5/CSS3, jQuery, Bootstrap, Angular Material, RXJS, MySQL, Typescript, AJAX,
