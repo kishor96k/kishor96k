@@ -67,8 +67,6 @@
     <img width="12">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma logo">
     <img width="12">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30" alt="adobe-xd logo">
-    <img width="12">
     <img src="https://www.chartjs.org/media/logo-title.svg" height="30" alt="chartjslogo">
     <img width="12">
 
