@@ -93,7 +93,7 @@
         <img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="twitter logo" />
     </a>
-    <a href="www.facebook.com/kishor.chavan.186590/">
+    <a href="https://www.facebook.com/kishor.chavan.186590/">
         <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="facebook logo" />
     </a>
