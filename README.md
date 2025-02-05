@@ -104,8 +104,5 @@
 </div>
 
 <br clear="both">
-### 🐍 Contribution Snake Animation
-
-![GitHub Snake](https://raw.githubusercontent.com/kishor96k/kishor96k/output/snake.svg)
 
 <!-- <img src="https://raw.githubusercontent.com/kishor96k/kishor96k/output/snake.svg" alt="Snake animation" /> -->
